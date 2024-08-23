@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lyzza Rose Abig</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lyzza+Rose+Abig!;](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=FFB6C1&width=435&lines=Mabuhay!;I'm+Lyzza+Rose+Abig." />
+</h1>
+
 <hr style="border: 1px solid lightpink; width: 80%; margin: auto;">
 <img width="100%" src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif">
 <h3 align="center">I'm a third-year BSIT student at Centro Escolar University Malolos, where I’m pursuing my passion for technology and creativity.</h3>
@@ -32,3 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avzyl&show_icons=true&locale=en" alt="avzyl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avzyl&" alt="avzyl" /></p>
+
+<div align="center">
+  <h2>🎀 My Contributions 🎀</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/avzyl/avzyl/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
