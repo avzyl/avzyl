@@ -4,8 +4,6 @@
 <img align="right" alt="pink bunny" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b86bdb4-540f-4240-bed6-228912593dc2/dgq1ru7-896f368b-a5b1-46cb-889c-9ea642c4fd1d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiODZiZGI0LTU0MGYtNDI0MC1iZWQ2LTIyODkxMjU5M2RjMlwvZGdxMXJ1Ny04OTZmMzY4Yi1hNWIxLTQ2Y2ItODg5Yy05ZWE2NDJjNGZkMWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Yx7rSxpP5OUHpr4IUloEuCaITJYYjaPqtYKr6nlG7iQ">
 
 
-// <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avzyl" alt="avzyl" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/polarisrossa" target="blank"><img src="https://img.shields.io/twitter/follow/polarisrossa?logo=twitter&style=for-the-badge" alt="polarisrossa" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [bsitport2026.com/labig](bsitport2026.com/labig)
