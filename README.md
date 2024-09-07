@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/polarisrossa" target="blank"><img src="https://img.shields.io/twitter/follow/polarisrossa?logo=twitter&style=for-the-badge" alt="polarisrossa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [bsitport2026.com/labig](bsitport2026.com/labig)
+- 👨‍💻 All of my projects are available at bsitport2026.com/labig
 
-- 🎮 I'm an avid online gamer. Add me here: [avzyl](avzyl)
+- 🎮 I'm an avid online gamer. Add me here: avzyl
 
 - 🎯 In my free time, I enjoy **traditional and digital painting, as well as photo and video editing.**
 
