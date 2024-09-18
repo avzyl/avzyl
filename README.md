@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/polarisrossa" target="blank"><img src="https://img.shields.io/twitter/follow/polarisrossa?logo=twitter&style=for-the-badge" alt="polarisrossa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at bsitport2026.com/labig
+- 👨‍💻 All of my projects are available at <p> <a href="bsitport2026.com/labig">bsitport2026.com/labig</a><p>
 
 - 🎮 I'm an avid online gamer. Add me here: avzyl
 
