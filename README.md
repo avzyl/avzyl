@@ -16,7 +16,7 @@
 
 - 🎯 In my free time, I enjoy **traditional and digital painting, as well as photo and video editing.**
 
-- 📫 How to reach me **lyzzarose.a@gmail.com**
+- 📫 How to reach me **hello.lyzzaabig@gmail.com**
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false=width=500&height=70&duration=4000&lines=🌷+Connect+with+me+🌷;](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=FFB6C1&repeat=false&width=435&lines=🌷+Connect+with+me+🌷" />
