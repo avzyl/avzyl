@@ -31,7 +31,7 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b86bdb4-540f-424
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false=width=500&height=70&duration=4000&lines=🌸+My+Portfolios+🌸;](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=FFB6C1&repeat=false&width=435&lines=🌸+My+Portfolios+🌸" /> </h3>
 
 <p align="center">
-  <a href="https://www.bsitport2026.com/labig" target="_blank">
+  <a href="https://www.bsitport2026.com/lyzzaAbig" target="_blank">
     <img src="https://img.shields.io/badge/💻_BSIT_Projects-View_Portfolio-ffb6c1?style=for-the-badge">
   </a>
   <br><br>
