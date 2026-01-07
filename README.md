@@ -5,7 +5,7 @@
 <img width="100%" src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif">
 
 <h3 align="center">
-BSIT Student at Centro Escolar University – Malolos
+4th Year BSIT Student at Centro Escolar University – Malolos
 </h3>
 
 <p align="center">
