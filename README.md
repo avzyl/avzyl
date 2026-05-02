@@ -47,15 +47,15 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b86bdb4-540f-424
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false=width=500&height=70&duration=4000&lines=🌷+Connect+with+me+🌷;](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=FFB6C1&repeat=false&width=435&lines=🌷+Connect+with+me+🌷" /> </h3>
 
 <p align="center">
-<a href="https://twitter.com/polarisrossa" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://fb.com/ppolarisrossa" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/polarisrossa" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
+  <a href="https://twitter.com/polarisrossa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://fb.com/ppolarisrossa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/polarisrossa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
 </p>
 
 <p align="center">
